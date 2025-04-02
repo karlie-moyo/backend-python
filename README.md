@@ -1,5 +1,6 @@
 #UoS Backend Python 🐍
-![image](https://github.com/user-attachments/assets/34b214c2-6377-4afa-8ac5-a1d5272be750)
+
+![image](https://github.com/user-attachments/assets/e5ebf068-c3c3-496c-9580-1d994b62e7a4)
 
 Python features like **variable annotation**, **async functions**, and **async comprehension** improve code readability and concurrency, while **unittest** and **integration tests** ensure code correctness and system interaction.
 
